@@ -29,3 +29,4 @@ Practico realizado durante la clase del curso de FullStack de CUDI
 - Hola, Soy Flavio Arzamendia y Estoy Haciendo el ejercicio.
 - Hola, Soy Griselda y estos son mis primeros pasos en programación.SOS
 - Hola soy Máxima, un gusto!
+- Hola! Mi nombre es Fernanda.
